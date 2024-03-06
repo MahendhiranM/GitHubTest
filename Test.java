@@ -8,6 +8,7 @@ public class Test{
   public String State;
  public String country;
   public String pincode;
+  public String fname;
 }
 
    
