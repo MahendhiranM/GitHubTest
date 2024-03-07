@@ -9,6 +9,7 @@ public class Test{
  public String country;
   public String pincode;
   public String fname;
+  public String lname;
 }
 
    
