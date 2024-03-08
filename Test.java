@@ -6,12 +6,21 @@ public class Test{
   public String address;
   public String city;
   public String State;
- public String country;
+  public String country;
   public String pincode;
   public String fname;
   public String lname;
   public String one;
 }
 
+class Git{
+
+  public  String name;
+  public Int age;
+ 
+}
+
    
+
+
 
