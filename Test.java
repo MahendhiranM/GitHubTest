@@ -12,7 +12,12 @@ public class Test{
   public String lname;
   public String two;
 }
+class Testing{
 
+  public  String name;
+  public Int age;
+ 
+}
 class Git{
 
   public  String name;
