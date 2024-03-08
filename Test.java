@@ -19,9 +19,11 @@ class Git{
   public Int age;
  
 }
-class Test{
+class Test1{
  
  public String one;
+ public String two;
+
 }
 
    
