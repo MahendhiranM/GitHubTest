@@ -25,6 +25,12 @@ class Test1{
  public String two;
 
 }
+class Test2{
+ 
+ public String two;
+ public String three;
+
+}
 
    
 
