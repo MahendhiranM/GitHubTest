@@ -10,7 +10,7 @@ public class Test{
   public String pincode;
   public String fname;
   public String lname;
-  public String one;
+  public String two;
 }
 
 class Git{
