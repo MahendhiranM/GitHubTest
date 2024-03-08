@@ -11,6 +11,10 @@ public class Test{
   public String fname;
   public String lname;
 }
+class Test{
+ 
+ public String one;
+}
 
    
 
